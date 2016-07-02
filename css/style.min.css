@@ -1,0 +1,7 @@
+/**
+ * website - a website
+ * @version v1.0.0
+ * @link 
+ * @license UNLICENSED
+ */
+body,html{margin:0;padding:0;width:100%;height:100%}body{background:radial-gradient(#00c3ff,#66dbff);background-color:#00c3ff}canvas{top:0;height:100%;opacity:.25;z-index:-1}.mountains,canvas{position:absolute;left:0;width:100%}.block,.mountains{bottom:0}.block{display:flex;justify-content:space-between;position:absolute;top:0;left:0;right:0;margin:auto;padding:10px;width:320px;height:48px;background-color:#fff;border-radius:48px;box-shadow:0 0 2px 0 rgba(0,0,0,.1)}.icon{display:inline-block;width:48px;height:48px;font-size:24px;text-align:center;text-decoration:none;line-height:48px;border-radius:50%;color:#fff;transition:transform .1s}.icon:hover{transform:scale(1.1)}.icon:active{transform:scale(.9)}
